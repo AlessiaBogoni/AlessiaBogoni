@@ -35,6 +35,9 @@
 
 ### Tools and technologies
 <p align="center">   
+    <img src="https://img.shields.io/badge/Overleaf-%2300aa55?style=for-the-badge&logo=overleaf&logoColor=white">
+    <img src="https://img.shields.io/badge/Matlab-%230000FF?style=for-the-badge&logo=matlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Angular-%23FA0F00.svg?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
