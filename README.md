@@ -34,8 +34,7 @@
 
 
 ### Tools and technologies
-<p align="center">
-   
+<p align="center">   
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Angular-%23FA0F00.svg?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
