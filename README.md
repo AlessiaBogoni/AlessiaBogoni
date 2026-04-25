@@ -1,37 +1,51 @@
 
-# Alessia Bogoni 👩🏼‍💻🐝🍔
+# Alessia Bogoni 👩🏼‍💻🎓
 
-- 🇮🇹     Italian boyfriend-taught developer
-- 🎓 BSc in _Economics and Business_ (University of Verona)
-- 🧮 MSc student in _Economics & Data Analysis_ (University of Verona) and _Science in International Economic Policy_ (Universitaet Wuerzburg)
+💻 Boyfriend-taught developer
+
+📚 PhD Student and Research Associate at Julius-Maximilian Universität Würzburg 
+
+🎓 BSc in _Economics and Business_ (University of Verona)
+
+🧮 MSc in _Economics & Data Analysis_ (University of Verona) and _International Economic Policy_ (Universität Würzburg)
 
 
 
+
+#
 ### Skills and Expertise 
 
-- 💡    Problem Solving: Strong analytical and problem-solving skills, adept at finding creative solutions to complex challenges.
-- 📷   Continuous Learning: Enthusiastic about knowledge acquisition and self-improvement. Always seeking opportunities to expand skills and stay updated with the latest trends and technologies.
+💡    Problem Solving: Strong analytical and problem-solving skills, adept at finding creative solutions to complex challenges.
+
+📷   Continuous Learning: Enthusiastic about knowledge acquisition and self-improvement. Always seeking opportunities to expand skills and stay updated with the latest trends and technologies.
 
 
 
+
+#
 ### Interests and Hobbies 
 
-- 📚 Learning & studying
-- 💻 Web Development
-- 📊 Business Applications
-- 🗺 Languages 
-- 🍔 Cooking
+📚 Economic Research (Behavioral and Experimental)
+ 
+💻 Web Development
+
+📊 Business Applications
+
+🗺 Languages 
+
+🍔 Cooking
 
 
 
+#
 
 ### Contact Information 📧🔗
 
-- LinkedIn: [https://www.linkedin.com/in/alessiabogoni/](https://www.linkedin.com/in/alessia-bogoni-aab82b208)
+LinkedIn: [https://www.linkedin.com/in/alessiabogoni/](https://www.linkedin.com/in/alessia-bogoni-aab82b208)
 
 
 
-
+#
 ### Tools and technologies
 <p align="center">   
     <img src="https://img.shields.io/badge/Overleaf-%2300aa55?logo=overleaf&logoColor=white">
@@ -72,16 +86,12 @@
     <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff">
     <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff">
     
-    
-    
-    
-    
 
 </p>
 
 
 
-
+#
 ### Some stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessiaBogoni&layout=compact" height="150">
